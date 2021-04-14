@@ -1,15 +1,15 @@
-<center>
+<p align=center>
   <img src=".github/tech-talk-logo.png" width="400" />
-  <h2>TechTalk Library</h1>
+</p>
 
-  <p>A collection of all of our TechTalk content, plus links to more.</p>
-</center>
+<h2 align=center>TechTalk Library</h2>
+<p align=center>A collection of all of our TechTalk content, plus links to more.</p>
 
 <br />
 
 # Past TechTalks
 
-## [Next.js, Stepping Into the Future of UI Development](https://github.com/lab49/tech-talk-nextjs-future-of-ui-development)
+### [Next.js, Stepping Into the Future of UI Development](https://github.com/lab49/tech-talk-nextjs-future-of-ui-development)
 
 #### Marth 5th, 2021
 #### Presented by Carlin Canales
@@ -18,7 +18,7 @@
 
 <br />
 
-## [Architectural Decision Record (ADR) Introduction](https://github.com/lab49/tech-talk-adr-introduction)
+### [Architectural Decision Record (ADR) Introduction](https://github.com/lab49/tech-talk-adr-introduction)
 
 #### March 4th, 2021
 #### Presented by Yi Hu
