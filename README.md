@@ -20,7 +20,7 @@
 
 ### [Architectural Decision Record (ADR) Introduction](https://github.com/lab49/tech-talk-adr-introduction)
 
-**March 4th, 2021**
+**March 4th, 2021**  
 **Presented by Yi Hu**
 
 [<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/t3JdHmUmXTY)
@@ -29,7 +29,7 @@
 
 ### [The Case for Building Client-First Web Apps](https://github.com/lab49/tech-talk-case-for-client-first-apps)
 
-**January 4th, 2021**
+**January 4th, 2021**  
 **Presented by Greg Magarshak**
 
 [<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/yKPKuH6YCTc)
@@ -38,7 +38,7 @@
 
 ### [Creating icons for digital platforms](https://github.com/lab49/tech-talk-creating-icons-for-digital-platforms)
 
-**September 8th, 2020**
+**September 8th, 2020**  
 **Presented by Brian McAllister & James Cutts**
 
 [<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/nRzPi7Vh_qI)
@@ -47,7 +47,7 @@
 
 ### [Creating, Using, and Maintaining a Design System](https://github.com/lab49/tech-talk-design-systems)
 
-**May 20th, 2020**
+**May 20th, 2020**  
 **Presented by Brian McAllister**
 
 [<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/F2JifPQVdkw)
@@ -58,7 +58,7 @@
 
 ### [OpenFin Webinar: Creating, Using, and Maintaining a Design System](https://github.com/lab49/openfin-webinar-creating-using-maintaining-design-systems)
 
-**February 17th, 2020**
+**February 17th, 2020**  
 **Presented by Brian McAllister**
 
 [<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://www.youtube.com/watch?v=gQ8_PU_iGOU&t=1s)
