@@ -14,7 +14,7 @@
 **September 10th, 2021**
 **Presented by Balazs Edes**
 
-[<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/VN93qpGFbbk)
+[<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/YDh2Wn0Eeek)
 
 <br />
 
