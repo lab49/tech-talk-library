@@ -9,9 +9,9 @@
 
 # Past TechTalks
 
-### [Lab49 TechTalk: Making Meaningful API Contracts](https://github.com/lab49/tech-talk-making-meaningful-api-contracts)
+### [Making Meaningful API Contracts](https://github.com/lab49/tech-talk-making-meaningful-api-contracts)
 
-**September 10th, 2021**
+**September 10th, 2021**  
 **Presented by Balazs Edes**
 
 [<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/YDh2Wn0Eeek)
