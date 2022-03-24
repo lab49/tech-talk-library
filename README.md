@@ -9,6 +9,15 @@
 
 # Past TechTalks
 
+### [Blockchain Basics](https://github.com/lab49/tech-talk-blockchain-basics)
+
+**January 31st, 2021**  
+**Presented by Galina Fendikevich, Martin Masser, Ryan Leacock**
+
+[<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/IlhfNEidWp8)
+
+<br />
+
 ### [Making Meaningful API Contracts](https://github.com/lab49/tech-talk-making-meaningful-api-contracts)
 
 **September 10th, 2021**  
