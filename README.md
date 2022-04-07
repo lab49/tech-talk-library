@@ -9,6 +9,15 @@
 
 # Past TechTalks
 
+### [Introduction to Elasticsearch & TWL case study](https://github.com/lab49/tech-talk-intro-to-elasticsearch)
+
+**April 7th, 2022**  
+**Presented by Andrew Burkus**
+
+[<img src=".github/youtube.png" width="30" valign="middle"> YouTube](https://youtu.be/2I8NevAMgxE)
+
+<br />
+
 ### [Blockchain Basics](https://github.com/lab49/tech-talk-blockchain-basics)
 
 **January 31st, 2021**  
